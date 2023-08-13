@@ -1,4 +1,3 @@
-# MNIST_Classification
-- This repo contains the classification of Handwritten digits of the MNIST dataset. 
-- The models used for Classification are Feed-Forward Neural Network (FFNN) and Convolutional Neural Network (CNN).
-- FFNN gave a test accuracy of **97.76%** and CNN gave a test accuracy of **99.31%**.
+- This repo contains the generation and classification of Handwritten digits of the MNIST dataset.
+- Models used for Generation: Vanilla-GAN, Conditional GAN, Deep Convolutional GAN
+- Models used for Classification: Feed-Forward Neural Network, Convolutional Neural Network
