@@ -3,7 +3,9 @@ This folder contains the Generation of MNIST Handwritten digits using Generative
     - Vanilla-GAN
     - Conditional GAN (CGAN)
     - Deep Convolutional GAN (DCGAN)
+
 - Observations: Further training and hyperparameter tuning can further improve the results.
+  
 - The results produced by DCGAN are as follows:
 ![color picker](https://github.com/213079003/MNIST_Generation_Classification/blob/main/Generation/DCGAN/progressDCGAN.gif)
 
