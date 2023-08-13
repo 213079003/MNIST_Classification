@@ -4,5 +4,7 @@ This folder contains the Generation of MNIST Handwritten digits using Generative
     - Conditional GAN (CGAN)
     - Deep Convolutional GAN (DCGAN)
 The results produced by Vanilla-GAN are as follows:
+<p align="center">
+  <img src="[./my.gif](https://github.com/213079003/MNIST_Generation_Classification/blob/main/Generation/Vanilla-GAN/Vanilla_GAN_progress.gif)">
+</p>
 
-![color picker](https://github.com/213079003/MNIST_Generation_Classification/blob/main/Generation/Vanilla-GAN/Vanilla_GAN_progress.gif)
