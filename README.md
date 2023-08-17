@@ -1,4 +1,4 @@
 - This repo contains the generation and classification of Handwritten digits of the MNIST dataset.
 - Models used for Generation: Vanilla-GAN, Conditional GAN, Deep Convolutional GAN
 - Models used for Classification: Feed-Forward Neural Network, Convolutional Neural Network
-- The entire code is implemented using Pytorch.
+- The entire code is implemented using PyTorch.
